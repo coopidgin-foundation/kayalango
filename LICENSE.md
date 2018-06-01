@@ -9,7 +9,7 @@
      href="https://github.com/coopidgin-foundation/openlango">
     <span property="dct:title">Openlango contributors</span></a>
   has waived all copyright and related or neighboring rights to
-  <span property="dct:title">Openlango language</span>.
+  <span property="dct:title">Openlango language documentation</span>.
 This work is published from:
 <span property="vcard:Country" datatype="dct:ISO3166"
       content="US" about="https://github.com/coopidgin-foundation/openlango">
