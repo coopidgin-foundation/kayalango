@@ -7,12 +7,12 @@ An OPAL based on the auxlang Mondlango
 1.1 - Let's use shared sheet with column to vote for or against by writing his name
 For: Seweli
 Against:
-
-2- Survey about the letter "r"
-2.1 - Let's ban this letter of the language
-For: Seweli
-Against:
-
+ 
+2- Survey about the letter "r" 
+2.1 - Let's ban this letter of the language 
+For: Seweli 
+Against: 
+ 
 3- Survey about the origin of vocabulary
 3.1 - Let's use more words from English and from Asian languages, when they are some likeness
 For: Seweli
