@@ -41,5 +41,8 @@ ju:  they (plural of it)
 For: Seweli
 Against:
 
+5- Survey about places of discussion
+5.1 - Let's start with this Telegram group : https://t.me/joinchat/GpUY3hF-5jomlDWkFkuyZg
+
 
 ## the list of the archived surveys
