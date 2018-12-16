@@ -5,6 +5,7 @@ An OPAL based on the auxlang Mondlango
 
 1- Survey about how to organize the modification of vocabulary
 1.1 - Let's use shared sheet with column to vote for or against by writing his name
+https://docs.google.com/spreadsheets/d/1KYKsR_GHGr-nSmuCwLYx_WcLRcADm-9RlI9DAS0Iaew/edit?usp=sharing
 For: Seweli
 Against:
  
