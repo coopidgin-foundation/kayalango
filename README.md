@@ -1,6 +1,8 @@
 # kayalango
 kaya lango means open language
+
 It's an OPAL based on the auxlang Mondlango
+
 OPAL means Open Planified Auxiliary Language
 
 ## the ranked list of the current surveys
@@ -33,7 +35,7 @@ yi:  you (singular)
 hi:  he
 xi:  she
 li:  he or she
-ji:  it
+ji:  itOpen Planified Auxiliary Languages
 mu:  we
 yu:  you (plural)
 hu:  they (plural of hi)
