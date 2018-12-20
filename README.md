@@ -1,5 +1,7 @@
-# kaya lango
-An OPAL based on the auxlang Mondlango
+# kayalango
+kaya lango means open language
+It's an OPAL based on the auxlang Mondlango
+OPAL means Open Planified Auxiliary Language
 
 ## the ranked list of the current surveys
 
