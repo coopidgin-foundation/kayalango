@@ -1,4 +1,4 @@
-# openlango
+# kaya lango
 An OPAL based on the auxlang Mondlango
 
 ## the ranked list of the current surveys
